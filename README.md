@@ -14,11 +14,11 @@
 
 - PowerShell
 
-![](https://ae01.alicdn.com/kf/H258c71bc4c2f43f4a35fabfe06ae93e9A.png)
+![](https://ae01.alicdn.com/kf/H7b23a9c3590d4327be7da4e89c6dc042i.jpg)
 
 - Ubuntu
 
-![](https://ae01.alicdn.com/kf/H1d8217a5c4474293acd9fb3cd4af0d61Y.png)
+![](https://ae01.alicdn.com/kf/Hb701d26a789c4b2ea94139f7df7dd21c3.jpg)
 
 至于为什么不用透明度，是因为真的不喜欢切换的时候各种变化，尤其是特别明显的变化。有需要可自行调整。
 
