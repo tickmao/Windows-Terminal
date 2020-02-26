@@ -1,6 +1,6 @@
 # Windows-Terminal
 
-最终还是选择了 Windows Terminal，以下为个人配置，仅供参考
+最终还是选择了 Windows Terminal，以下为个人配置，仅供参考
 
 ## 基础搭配
 
@@ -22,12 +22,12 @@
 
 至于为什么不用透明度，是因为真的不喜欢切换的时候各种变化，尤其是特别明显的变化。有需要可自行调整。
 
-## 使用说明
+## 使用说明
 
 关于 Windows 下的 bash 安装，再次就不做说明，有需要请自行查阅，一是讲解的文章很多，二是他并不是这里要说的重点。
 
 
-打开 Windows Terminal 的 `Settings`选项，并将`Microsoft.PowerShell_profile`内的内容复制到你的设置中保存即可。
+打开 Windows Terminal 的 `Settings`选项，并将`Microsoft.PowerShell_profile`内的内容复制到你的设置中保存即可。
 
 ### 安装 oh-my-posh
 
