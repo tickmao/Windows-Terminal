@@ -1,6 +1,8 @@
 {
   "$schema": "https://aka.ms/terminal-profiles-schema",
   "alwaysShowTabs": true,
+  "copyOnSelect": false,
+  "tabWidthMode": "equal",
   "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}", //配置打开Terminal的首选项参考下面的"guid"
   "initialCols": 96, //行宽
   "initialRows": 27, //列宽
@@ -173,7 +175,7 @@
   "showTerminalTitleInTitlebar": true,
   "profiles": [{
       "name": "Windows PowerShell",
-      "commandline": "powershell.exe",
+      "commandline": "powershell.exe -NoLogo",
       "useAcrylic": true,
       "acrylicOpacity": 1,
       "closeOnExit": true,
