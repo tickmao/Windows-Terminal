@@ -179,7 +179,7 @@
       "useAcrylic": true,
       "acrylicOpacity": 1,
       "closeOnExit": true,
-      "colorScheme": "Dracula",
+      "colorScheme": "Nord",
       "cursorColor": "#000000",
       "cursorShape": "bar",
       "fontFace": "Fira Code",
@@ -187,7 +187,7 @@
       "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
       "historySize": 9001,
       "icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
-      "padding": "0, 0, 0, 0",
+      "padding": "10, 10, 10, 10",
       "snapOnInput": true,
       "startingDirectory": "%USERPROFILE%"
     },
@@ -197,7 +197,7 @@
       "useAcrylic": true, //透明选择
       "acrylicOpacity": 1, //透明度设置
       "closeOnExit": true,
-      "colorScheme": "Dracula", //主题
+      "colorScheme": "Nord", //主题
       "cursorColor": "#FFFFFF",
       "cursorShape": "bar",
       "fontFace": "Fira Code", //字体
@@ -205,7 +205,7 @@
       "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}", //guid
       "historySize": 9001,
       "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png", //终端图标
-      "padding": "0, 0, 0, 0",
+      "padding": "10, 10, 10, 10",
       "snapOnInput": true,
       "startingDirectory": "E:\\" //启动路径
     },
@@ -215,7 +215,7 @@
       "useAcrylic": true,
       "acrylicOpacity": 1,
       "closeOnExit": true,
-      "colorScheme": "Dracula",
+      "colorScheme": "Nord",
       "cursorColor": "#FFFFFF",
       "cursorShape": "bar",
       "fontFace": "Fira Code",
@@ -223,7 +223,7 @@
       "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
       "historySize": 9001,
       "icon": "ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png",
-      "padding": "0, 0, 0, 0",
+      "padding": "10, 10, 10, 10",
       "snapOnInput": true,
       "startingDirectory": "%USERPROFILE%"
     },
@@ -318,6 +318,27 @@
         "red": "#D30102",
         "white": "#EEE8D5",
         "yellow": "#B58900"
+      },
+      {
+        "name": "Nord",
+        "background": "#323232",
+        "foreground": "#eceff4",
+        "brightBlack": "#2e3440",
+        "brightBlue": "#5e81ac",
+        "brightCyan": "#8fbcbb",
+        "brightGreen": "#a3be8c",
+        "brightPurple": "#b48ead",
+        "brightRed": "#bf616a",
+        "brightWhite": "#eceff4",
+        "brightYellow": "#ebcb8b",
+        "black": "#2e3440",
+        "blue": "#5e81ac",
+        "cyan": "#8fbcbb",
+        "green": "#a3be8c",
+        "purple": "#b48ead",
+        "red": "#bf616a",
+        "white": "#eceff4",
+        "yellow": "#ebcb8b"
       },
       {
         "name": "Dracula",

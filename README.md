@@ -4,7 +4,7 @@
 
 ## 基础搭配
 
-- 主题：Dracula
+- 主题：Nord
 
 - 字体：Fair Code
 
@@ -14,15 +14,15 @@
 
 - PowerShell
 
-![](https://ae01.alicdn.com/kf/H258c71bc4c2f43f4a35fabfe06ae93e9A.png)
+![](https://imgkr.cn-bj.ufileos.com/cf72ced9-d202-4390-9132-d655ec9c9494.png)
 
 - Ubuntu
 
-![](https://ae01.alicdn.com/kf/H1d8217a5c4474293acd9fb3cd4af0d61Y.png)
+![](https://imgkr.cn-bj.ufileos.com/dc797c1c-5ef7-447a-a46b-52c7b5c70d8c.png)
 
 至于为什么不用透明度，是因为真的不喜欢切换的时候各种变化，尤其是特别明显的变化。有需要可自行调整。
 
-## 使用说明
+## 使用说明
 
 关于 Windows 下的 bash 安装，再次就不做说明，有需要请自行查阅，一是讲解的文章很多，二是他并不是这里要说的重点。
 
@@ -64,7 +64,7 @@ $profile
 
 [Fair Code](https://github.com/tonsky/FiraCode)
 
-[Dracula](https://draculatheme.com/powershell/)
+[Nord](https://github.com/arcticicestudio/nord)
 
 
 
@@ -76,4 +76,4 @@ $profile
 
 Windows Terminal ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
-Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)
+Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tickmao)
